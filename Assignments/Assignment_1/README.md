@@ -5,15 +5,15 @@ Description :- This repository contains basic C programming assignments complete
 
 Programs Included :-
 
-Division of Two Numbers :- Accepts two numbers from the user and displays their division.
+ 1. Division of Two Numbers :- Accepts two numbers from the user and displays their division.
 
-Print Marvellous Five Times :- Prints the word "Marvellous" five times on the screen.
+ 2. Print Marvellous Five Times :- Prints the word "Marvellous" five times on the screen.
 
-Print Numbers from 5 to 1 Displays numbers in descending order from 5 to 1.
+ 3. Print Numbers from 5 to 1 Displays numbers in descending order from 5 to 1.
 
-Check Divisibility by 5 Accepts one number from the user and checks whether it is divisible by 5.
+ 4. Check Divisibility by 5 Accepts one number from the user and checks whether it is divisible by 5.
 
-Print Stars Accepts one number from the user and prints that number of stars (*) on the screen.
+ 5.Print Stars Accepts one number from the user and prints that number of stars (*) on the screen.
 
 Language Used :- C Programming
 
