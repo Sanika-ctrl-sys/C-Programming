@@ -13,7 +13,7 @@ Programs Included :-
 
  4. Check Divisibility by 5 Accepts one number from the user and checks whether it is divisible by 5.
 
- 5.Print Stars Accepts one number from the user and prints that number of stars (*) on the screen.
+  5.Print Stars Accepts one number from the user and prints that number of stars (*) on the screen.
 
 Language Used :- C Programming
 
