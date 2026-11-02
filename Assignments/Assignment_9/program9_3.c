@@ -25,7 +25,6 @@ int EvenFactorial(int iNo)
     }
     return iFact;
 }
-
 int main()
 {
     int iValue = 0, iRet = 0;
