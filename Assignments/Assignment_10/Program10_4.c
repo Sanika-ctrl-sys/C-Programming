@@ -11,7 +11,7 @@ double FhtoCs(float fTemp)
 {
     
     double dCelsius= 0.0;
-    dCelsius = (fTemp - 32) * (5 / 9);
+    dCelsius = (fTemp - 32) * (5.0 / 9.0);
 
     return dCelsius;
 
